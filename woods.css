@@ -1,0 +1,16 @@
+button {
+	border-radius: 50px;
+	border: none;
+	font-size: 1em;
+	font-weight: bold;
+}
+
+footer{
+	background-color: gray;
+	color: white;
+}
+
+body{
+	background-color: black;
+	color: white;
+}
